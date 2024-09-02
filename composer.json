@@ -1,0 +1,7 @@
+{
+    "require": {
+        "paquettg/php-html-parser": "^1.7",
+        "sybio/image-workshop": "^2.0",
+        "phpoffice/phpword": "^0.13.0"
+    }
+}
